@@ -1,0 +1,6 @@
+C:\Users\abrackmann\Documents\Other\JobReader\bin\Debug\JobReader.exe.config
+C:\Users\abrackmann\Documents\Other\JobReader\bin\Debug\JobReader.exe
+C:\Users\abrackmann\Documents\Other\JobReader\bin\Debug\JobReader.pdb
+C:\Users\abrackmann\Documents\Other\JobReader\obj\Debug\JobReader.csprojResolveAssemblyReference.cache
+C:\Users\abrackmann\Documents\Other\JobReader\obj\Debug\JobReader.exe
+C:\Users\abrackmann\Documents\Other\JobReader\obj\Debug\JobReader.pdb
